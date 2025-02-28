@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void main(){
-    printf("madarchod WORLD");
+    printf("bsdwala WORLD");
 }
